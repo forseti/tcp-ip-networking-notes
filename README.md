@@ -13,7 +13,7 @@ For example, the CIDR notation of `192.168.100.20/24`:
 
 Another example, the CIDR notation of `192.168.100.20/16`:
 - Its **IPv4 Address** is `192.168.100.20`
-- Its **Routing Prefix** is `16`. It can be said that its **Network Mask** is `255.255.255.0`
+- Its **Routing Prefix** is `16`. It can be said that its **Network Mask** is `255.255.0.0`
 - The first 16 bytes `192.168` is the **Network Address**
 - The remaining bytes `100.20` is the **Host Address**
 
